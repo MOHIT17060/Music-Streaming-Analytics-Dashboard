@@ -76,4 +76,3 @@ Key insights derived from the dashboard:
 
 ---
 
-## 📂 Project Structure
