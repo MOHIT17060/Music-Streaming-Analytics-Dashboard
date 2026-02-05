@@ -2,7 +2,7 @@
 
 ## Domain: Music Streaming & Entertainment Analytics
 
-This project belongs to the domain of digital entertainment analytics,
+This Project belongs to the domain of digital entertainment analytics,
 focusing on music streaming platforms. It combines consumer behavior
 analysis with data-driven performance evaluation.
 
